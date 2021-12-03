@@ -10,7 +10,7 @@ comments: true
 
 
 ## 1. Preliminary Information: 
-#### Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
+**Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
 
 Ren - I’m in robotics FRC (primarily during winter) HOP and MHXHM --- Organizing, stay on track, java, python --- To design and develop a mobile app that can help people in the community
 
