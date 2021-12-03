@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Contract
-subtitle: links
+subtitle: assignment 2.4
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [design]
