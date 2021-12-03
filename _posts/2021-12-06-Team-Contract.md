@@ -50,7 +50,7 @@ Interconnections, because we want to improve connections between Horace Mann stu
 ## 7. Team Logo: 
 **What will be your project logo and what is the rationale behind it?
 
-### ADD LOGO
+![crepe](/assets/img/group-logo-sketch.png)
 
 Low res-image but the idea is to have something like this with maroon and white colors instead. 
 
