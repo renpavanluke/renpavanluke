@@ -10,7 +10,7 @@ comments: true
 
 
 ## 1. Preliminary Information: 
-**Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
+# Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
 
 Ren - I’m in robotics FRC (primarily during winter) HOP and MHXHM --- Organizing, stay on track, java, python --- To design and develop a mobile app that can help people in the community
 
@@ -66,7 +66,7 @@ Luke - will work on art/design, coding, and do contextual inquiries
 
 Don't meet outside of class, but if we need to zoom on a Sunday
 
-## 10.Documentation/Accountability: 
+## 10. Documentation/Accountability: 
 **How will you record the pertinent information from a meeting? How will you use each meeting to make an actionable plan for your work and your next meeting? How will you make sure people are held accountable for doing their part?
 
 Ren can write things down
