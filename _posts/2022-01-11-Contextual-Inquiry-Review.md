@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-** See Amendment at Bottom 
+**See Amendment at Bottom 
 
 ## Summary of Key Findings
 
@@ -37,7 +37,7 @@ We tried our best to conduct our third research with comfort by creating a short
 
 The high level themes noticed here is the general theme of hatred and incompatibility with FirstClass, especially regarding features central to the community like communication and announcements. There was also a plea for new/deleting features that accommodated (or did not meet) user needs, like the auto-delete feature or a feature that made announcements more accessible. There was also a huge issue with newer users who seemed to be at a complete loss when it came to using the app, with no way of being able to figure it out themselves. 
 
-** Amendment 
+**Amendment 
 
 After submitting this review, we were able to send out our UX Survey to the entire Upper Division student body + staff. This went incredibly well, with nearly 300 users filling the survey out with their thoughts and experiences. About 78% of our surveyees were students, 19% were teachers, and 3% were staff. The majority of the surveyees had been at the school for over 4 years. Of this user base, 63% struggled with FirstClass at least a few times a week, and 82% struggled to find past important emails. 56% struggled to get notifications/ receive emails on time, and an alarming 42% struggled to merely open the application. When it comes to features, 80% liked the autofill for emails/names function, but only 9% enjoyed the automatically deleting function. When we asked people their thoughts or concerns after the survey, they responded angrily. One staff member said “This system is so shockingly antiquated and fails to integrate with any calendar functions that I couldn't believe it when I joined HM over [a few] years ago. I never thought I would miss Microsoft Outlook as some sort of advanced system, but here we are. Why can't we have gmail based accounts?” An agreeing student said there is “no reason not to switch to a better email service.” One frustrated teacher even fumed that “I also hate the noise it makes. I hate that you can't get a notification on your phone when you get an email. I hate how glitchy it is. I hate how when you get a new email in a thread it doesn't automatically bump the thread to the top. I hate that it automatically deletes emails…” In my time reviewing the responses, I could not find one positive review, none noting the upsides of having a personalized email system. Of course, this could be due to survey bias, as the people who took the time to say something clearly were the ones most passionate about the issue, but regardless these results show an almost ⅓ (?) portion of the community being unhappy.
 
