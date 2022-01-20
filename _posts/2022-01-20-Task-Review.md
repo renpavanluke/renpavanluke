@@ -8,6 +8,10 @@ tags: [test]
 comments: true
 ---
 
+## Affinity Diagram 
+
+![crepe](/assets/img/affinitydiagram.png)
+
 text text 
 
 ### Notification
