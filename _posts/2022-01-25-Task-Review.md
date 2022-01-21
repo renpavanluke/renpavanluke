@@ -18,6 +18,7 @@ Our Affinity Diagram displays the everyday tasks and issues of our UX research-e
 
 ### 1. Checking Emails
 **Difficulty: Easy-Medium
+
 Checking emails is the most fundamental function of an email system, and is quite simple in FirstClass. A user will simply go to their mailbox and click on the desired email. There is also a “next unread” function which will send a user to their next unread email. However, 56.4% of users described having problems reading emails on time and receiving notification. This, in reality, should be an easier task, and the data collected in the survey may be due to human error, not the interface of FirstClass.
 
 
