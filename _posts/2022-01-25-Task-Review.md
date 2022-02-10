@@ -16,7 +16,7 @@ Our Affinity Diagram displays the everyday tasks and issues of our UX research-e
 
 ## OUR SIX TASKS 
 
-### 1. Checking Emails
+### 1. Viewing Emails on Time (notifications, unread)
 **Difficulty: Easy-Medium
 
 Checking emails is the most fundamental function of an email system, and is quite simple in FirstClass. A user will simply go to their mailbox and click on the desired email. There is also a “next unread” function which will send a user to their next unread email. However, 56.4% of users described having problems reading emails on time and receiving notification. This, in reality, should be an easier task, and the data collected in the survey may be due to human error, not the interface of FirstClass.
@@ -28,7 +28,7 @@ Checking emails is the most fundamental function of an email system, and is quit
 Users launch FirstClass constantly throughout everyday, yet a shocking 42.5% of our surveyees described struggling to do so. When launching the application, a user should tap on the app icon, type in their username and password, and then type in the mail.horacemann.org server ID. The average consistent user should have the mail server ID saved on their computer as well, which helps to streamline the process. We noted this was Easy-Medium, although this should be the easiest task in the process.
 
 
-### 3. Sending an email (contacting others, announcement, replying)
+### 3. Improving Communication (sending emails, announcements)
 ** Difficulty: Easy-Medium
 
 Sending emails is arguably the most important element of FirstClass, which thankfully seems to run relatively smoothly. 80% of students surveyed reported that they could easily find emails for people they needed to contact, and only 14.7% of users struggled to contact others on FirstClass. However, our resident interviewed teacher struggled a lot with emailing others, feeling that since he used the email function so often he had issues more often. He detailed not being able to send important emails and therefore not trusting that his emails would be received constantly. Currently sending an email works by selecting the mail icon, pressing “new” under another mail icon, typing in your subject, recipient, and cc, and then typing your message. You can send an email with the icon on the top left. 
