@@ -37,7 +37,7 @@ Sending emails is arguably the most important element of FirstClass, which thank
 ### 4. Attaching/Opening Files to Emails
 ** Difficulty: Medium
 
-Quite frequently, a user may need to attach a file to an email or open an attached file. This file might be homework, directions for an assignment, or an assessment, so it’s quite important to have a reliable email system so these files don’t get lost through sending. To attach a file, a user will find the button with a link icon, and simply upload their file. According to our survey, 45.8% of participants find that they have issues with sending or receiving files. A frequent problem for some users was that the files attached to an email couldn’t be viewed by the reader, so most of the time the issue isn’t attaching the files, but sending them.
+Quite frequently, a user may need to attach a file to an email or open an attached file. This file might be homework, directions for an assignment, or an assessment, so it’s quite important to have a reliable email system so these files don’t get lost through sending. To attach a file, a user will find the button with a link icon, and simply upload their file. According to our survey, 45.8% of participants find that they have issues with sending or receiving files. A frequent problem for some users was that the files attached to an email couldn’t be viewed by the reader, so most of the time the issue isn’t attaching the files, but sending them. Contextual Inquiry-ee Bob also noted that opening new emails took more time than it should have, and downloading and attaching a .pdf file was extremely slow. 
 
 
 ### 5. Finding/Viewing Past Emails
