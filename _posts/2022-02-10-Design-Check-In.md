@@ -8,13 +8,21 @@ tags: [test]
 comments: true
 ---
 
-## DESIGN 1. FirstClass Resource Page
-
-The FirstClass Resource Page is a collection of videos, forums, and resources that can help an experienced or new Horace Mann student/staff member/teacher navigate FirstClass and get into contact with other community members. The first page has a general how-to guide for using FirstClass for the first time, detailing how to log into your account, launch and download the application, and more with student-made video guides. Pages 2 and 4 help users to contact others, allowing them to find emails for members and how to contact them as well as a page dedicated to seamless interaction between clubs and publications through Slack Channels. Page 3 allows students/teachers to submit permission to make an announcement to the whole school or a significant portion of the school. Pages 5 + 6 allow for users to get help with FirstClass and help each other with their day-to-day issues. On the top of all pages, important announcements cycle through so that notifications can be well communicated. Also in the top of most pages there is a mail icon showing how many unread messages there are in your inbox.
+## DESIGN 1: FirstClass Resource Page
 
 ![crepe](/assets/img/rendesign.jpg)
 
+The FirstClass Resource Page is a collection of videos, forums, and resources that can help an experienced or new Horace Mann student/staff member/teacher navigate FirstClass and get into contact with other community members. The first page has a general how-to guide for using FirstClass for the first time, detailing how to log into your account, launch and download the application, and more with student-made video guides. Pages 2 and 4 help users to contact others, allowing them to find emails for members and how to contact them as well as a page dedicated to seamless interaction between clubs and publications through Slack Channels. Page 3 allows students/teachers to submit permission to make an announcement to the whole school or a significant portion of the school. Pages 5 + 6 allow for users to get help with FirstClass and help each other with their day-to-day issues. On the top of all pages, important announcements cycle through so that notifications can be well communicated. Also in the top of most pages there is a mail icon showing how many unread messages there are in your inbox.
+
+
 The help forums + calendar sign-up pages allow for users to get help for their various issues, the notifications and announcement icons on the top of the website allow for students to be notified quickly, pages 2-4 improve communication through more ways to communicate and assistance doing so, and launching the application can be helped through thorough help guides on page 1 and assistance pages 5-6.
+
+
+## DESIGN 2: FirstClass Redesign
+
+![crepe](/assets/img/lukedesign.jpg)
+
+The redesign of FirstClass is, on a very basic level, a fusion of HM’s old system, Haiku, and FirstClass. Because it is a program strictly for the HM community, there is no need for a login and a mail server - all you need is a google account, which is already provided by the school. It has the mail system from FirstClass, a homework calendar, a notification board for clubs or assessments, and a direct messaging system. The mail system is essentially the same as FirstClass, but has two added features. Users will have the ability to save or mark emails so they can view them later if needed. Finding and viewing past emails is easier if they are marked by a user, and they cannot be lost if saved by the user. A user can also attach multiple files at once instead of needing to attach them individually. Attaching files is a problem because new users of FirstClass may not be able to find the icon that opens up the menu for attaching files. This indicator will be larger, and being able to attach multiple files at once will make the process much faster.  Any homework assignments and dropboxes are condensed in a calendar so it’s easier for students to manage their work, and a notification board appears on the front page of the website so students will not miss anything important. Furthermore, the website will have a direct messaging system for quicker, informal communications. Similar to text messages on a phone, a user will see notifications on the front page of the website and will also be able to attach files to messages. This should make communication much easier and much faster. A notification board and a messaging system highlight more important emails while any informal emails can be sent through the direct messaging system, which is much easier to read than the traditional email system.
 
 
 ### Notification
