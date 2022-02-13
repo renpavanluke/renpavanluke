@@ -19,7 +19,7 @@ This Design allows users to:
 * Fixing Problems (pgs. 5-6) - The help forums + calendar sign-up pages allow for users to get help for their various issues. All they have to do is click on the page and a) write their problem into the forum and wait for a response or read other people’s responses or b) select a date on the calendar that a FirstClass expert can help them on.
 * Viewing Emails on Time -  the notifications and announcement icons on the top of the website allow for students to be notified quickly of important news. The cycling aspect of the news banner makes the news very visible and the first thing users will check when they open the resource page. 
 * Improving Communication (pgs. 2-4) - improve communication through more ways to communicate and assistance doing so. Page 2 allows for an expanded view of how to get contact information for any kind of contact you would need, page 3 allows for a smooth announcement system which affords users to communicate with the whole community at once, and page 4 allows for a more streamlined club chatting system that is not as formal and one-sided as email announcements.
-* Launching the application - This is improved through thorough help guides on page 1 and assistance pages 5-6. All a user has to do is look through the videos on page 1 to find a tutorial for what they need or just repeat the steps for Fixing Problems on pages 5-6 if they run into trouble.
+* Launching the Application - This is improved through thorough help guides on page 1 and assistance pages 5-6. All a user has to do is look through the videos on page 1 to find a tutorial for what they need or just repeat the steps for Fixing Problems on pages 5-6 if they run into trouble.
 
 
 
