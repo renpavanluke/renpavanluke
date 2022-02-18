@@ -28,7 +28,7 @@ To create an app that helps people in the community
 ## 3. Focus on Purpose: 
 **What is the purpose of your project? What is your goal – as you begin your project now, what would you like to have accomplished by the end of this project?
 
-To identify a specific demographic of people that need help in the community, and develop something to help them with a problem.
+Our goal is to make FirstClass more accessible to all members of the community (staff, teachers, students, and other) to streamline communication at HM.
 	
 ## 4. Group Roles: 
 **Can be specifically defined for each person or can be general and open-ended
@@ -58,7 +58,7 @@ Low res-image but the idea is to have something like this with maroon and white 
 **Write your plan for who will do what as you work on the Group Project Proposal.
 
 Ren - will organize, work on the website code, and do contextual inquiries  
-Pavan - will work on art/design, and writing 
+Pavan - will work on art/design, writing, and do contextual inquiries 
 Luke - will work on art/design, coding, and do contextual inquiries
 
 ## 9. Meeting Management: 
@@ -83,6 +83,10 @@ When giving feedback we’ll be respectful and thoughtful
 **How will you check in with each other to make sure this contract is serving the needs of your team and, in turn, that your team is adhering to the contract? How will you revise the contract, should the need arise? How will you make decisions regarding revisions to the contract? What happens if someone on the team has an issue at any point during the process?
 
 If we ever need to revise the contract we can, no exceptions
+
+## REVISION FEB 21, 2022
+1. Revision of our Goal - we changed our goal from finding a specific demographic of HM community members and focusing on their needs to focusing on the problems of the community as a whole.
+2. Revision of Team Plan - we modified the team plan/division of work so that it would be more accurate to what we are doing currently 
 
 
 
