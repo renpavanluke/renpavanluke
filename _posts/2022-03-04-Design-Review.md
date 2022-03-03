@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Usability Testing Lab: Design Review – 1x2
-subtitle: assignment 5.2
+title: Usability Testing Lab: Design Review
+subtitle: assignment 5.3
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
