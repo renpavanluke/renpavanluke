@@ -25,7 +25,7 @@ Access to Emails from the Past - is extremely crucial in the setting of a school
 ![crepe](/assets/img/finaldesignsketch.jpeg)
 
 ## OUR FIGMA PROTOTYPE
-
+[Click this link](https://www.figma.com/proto/KEsOga7II3ip47Sc6fj2sd/Interconnections-Prototype-1?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 ### Notification
 
