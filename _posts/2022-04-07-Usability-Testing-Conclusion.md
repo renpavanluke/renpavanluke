@@ -9,15 +9,15 @@ comments: true
 ---
  
 ## OUR 3 TESTS
-1. ###a new freshman
+1. ### a new freshman
 
 TEXT
 
-2. ###a returning junior
+2. ### a returning junior
 
 TEXT
 
-3. ###a teacher
+3. ### a teacher
 
 TEXT
 
