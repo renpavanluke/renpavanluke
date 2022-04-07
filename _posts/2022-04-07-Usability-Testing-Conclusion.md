@@ -27,7 +27,7 @@ TEXT
 
 ## FINAL PROTOTYPE 
 
-![crepe](/assets/img/finaldesignsketch.jpeg)
+![crepe](/assets/img/IMG_3187.JPG)
 
 ## IMPORTANT REVISIONS / EXPLANATION OF INCIDENTS TABLE
 
