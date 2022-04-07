@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
  
-### OUR 2 CENTRAL TASKS
+### pls show this
 
 1. Improving Communication (sending emails, announcements)
 2. Finding/Viewing Past Emails
