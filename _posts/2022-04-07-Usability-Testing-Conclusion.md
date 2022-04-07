@@ -29,6 +29,13 @@ TEXT
 
 ![crepe](/assets/img/IMG_3187.JPG)
 
+![crepe](/assets/img/IMG_3188.JPG)
+![crepe](/assets/img/IMG_3189.JPG)
+![crepe](/assets/img/IMG_3190.JPG)
+![crepe](/assets/img/IMG_3191.JPG)
+![crepe](/assets/img/IMG_3192.JPG)
+![crepe](/assets/img/IMG_3193.JPG)
+
 ## IMPORTANT REVISIONS / EXPLANATION OF INCIDENTS TABLE
 
 
