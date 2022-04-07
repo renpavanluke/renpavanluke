@@ -8,28 +8,28 @@ tags: [test]
 comments: true
 ---
  
-### OUR 3 TESTS
-1. # a new freshman
+## OUR 3 TESTS
+1. ###a new freshman
 
 TEXT
 
-2. ####a returning junior
+2. ###a returning junior
 
 TEXT
 
-3. ####a teacher
+3. ###a teacher
 
 TEXT
 
-### INCIDENTS TABLE 
+## INCIDENTS TABLE 
 
 
 
-### FINAL PROTOTYPE 
+## FINAL PROTOTYPE 
 
 ![crepe](/assets/img/finaldesignsketch.jpeg)
 
-### IMPORTANT REVISIONS / EXPLANATION OF INCIDENTS TABLE
+## IMPORTANT REVISIONS / EXPLANATION OF INCIDENTS TABLE
 
 
 ### Notification
