@@ -8,14 +8,29 @@ tags: [test]
 comments: true
 ---
  
-### pls show this
+### OUR 3 TESTS
+1. **a new freshman
 
-1. Improving Communication (sending emails, announcements)
-2. Finding/Viewing Past Emails
+TEXT
+
+2. **a returning junior
+
+TEXT
+
+3. **a teacher
+
+TEXT
+
+### INCIDENTS TABLE 
 
 
+
+### FINAL PROTOTYPE 
 
 ![crepe](/assets/img/finaldesignsketch.jpeg)
+
+### IMPORTANT REVISIONS / EXPLANATION OF INCIDENTS TABLE
+
 
 ### Notification
 
