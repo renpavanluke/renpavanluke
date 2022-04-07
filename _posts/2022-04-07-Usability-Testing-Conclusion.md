@@ -18,7 +18,7 @@ The first test was with a new freshman robotics student, taking place during rob
 
 The alias that this tester chose was Jack. He is a Junior high school student who is pretty familiar with the ins and outs of technology in general. He joined Horace Mann in the 6th grade and thus, has had a good amount of time to get familiar with First Class. We chose this participant to get another perspective of a longtime student at Horace Mann. The tasks we gave this participant were to, Login, Email a teacher to arrange a meeting, and check when the Game Jam Club meets next. I (Pavan) was the proctor, and Ren recorded observations. The tester executed the tasks fairly quickly and smoothly, however the tester seemed to take the less efficient routes to pages sometimes. Yet, it seemed to him that the design was easy to understand and intuitive. The only change we made out of this test was adding a more defined label for the slack icon. 
 
-3. #### a teacher (Mr. Grunebaum)
+3. #### a teacher (Mr. SG)
 
 Our participant for our third and final usability test was a staff member from the computer science department, SG. He joined Horace Mann very recently but is very familiar with technology and the process of usability testing so using FirstClass is not usually an issue for him. We chose this participant because we thought it would be useful to have the perspective of a staff member who is older than other participants and his background in technology gives very unique insight on our prototype. Two of our team members participated in the test: Luke, who played the role of the “computer” and Ren, who was the proctor. During our test, we had SG perform the tasks of signing into the app, sending an email to a student, and checking when certain clubs would happen using Slack. We did not make any revisions to our process before this test, but since some of the tasks were performed with some difficulty, we changed the prototype by making the settings icon clearer, creating a help page, adding a “save draft” function, and adding an “x” to many windows to make a clearer signifier on how to close it. 
 
@@ -41,7 +41,11 @@ Our participant for our third and final usability test was a staff member from t
 ## IMPORTANT REVISIONS / EXPLANATION OF INCIDENTS TABLE
 1. #### Help Page
 
+One of our tasks was for the participant to check their club notifications using slack, but because one of our participants SG had used Slack prior to the test and was not used to using it for clubs, he never found the page. New users not being able to locate basic functions is a huge problem, so we revised our app by adding a help page. This way, if a user has any questions or problems, they can find the solution to their problems on the help page. In our initial prototype we had a pop-up to instruct new users how to use the basic functions of the app, but that proved ineffective because SG, like many other users, simply ignored the pop-up. A help page is more effective because users will be more willing to go there and read it if they need help.
+
 2. #### Slack Icon
+
+The slack icon served to be a consistent problem to us during some of our tests because some people weren’t familiar with how slack is usually used at our school for clubs outside of regular classes. We tried to add pop-ups and more defined labels to make it clear that slack is a functionality of our application. Some of our fixes helped ameliorate some of the problem, yet, we soon came to the conclusion that our testers’ inability to identify slack and work with it was just them not having exposure to it. A help page helps familiarize users with slack, and thus serves a good solution. 
 
 3. #### Exit Buttons / Save Unfinished Emails
 
