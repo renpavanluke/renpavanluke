@@ -23,7 +23,7 @@ TEXT
 
 ## INCIDENTS TABLE 
 
-
+![crepe](/assets/img/incidents.png)
 
 ## FINAL PROTOTYPE 
 
