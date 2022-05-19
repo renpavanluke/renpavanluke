@@ -47,10 +47,13 @@ With our final prototype of the Interconnections App, users can communicate with
  
 ANNOUNCEMENTS/NOTIFICATIONS: 
 * To see an urgent announcement, a user will get a notification sent directly to their phone that will preview the alert. They can also click on this notification to launch the app to read more, or open the app normally to read the alert in the mail page of the Interconnections App. 
+
 FORMAL EMAILING:
 * To send a formal email to a teacher, student, or colleague, a user can launch the app and click directly on the mail icon or the customizable mail widget on the home page. From there, they can check emails sent to them, as well as send a new one using the standard “write-email” button in the bottom right corner. 
+
 INFORMAL DIRECT MESSAGING:
 * To informally direct message a colleague or fellow student, a user can click on the “DM” title on the top of the mail page, which will then swipe them into their DMing menu. From there, the user can use the DM page to find any HM community member via search at the top, and text using standard texting procedures. 
+
 CLUB ORGANIZING: 
 * A club leader can organize their meetings anytime through the forum-like club slack. There is no need to get approved to send out an email. Club leaders can also plan meetings through the club organizing page found on the forms/other page. 
  
@@ -60,6 +63,7 @@ Interconnections App also allows users to find information about important event
 
 VIEWING EVENT INFO (VIA EMAIL):
 * Users can find important information from past emails, saved underneath the mail page accessed by the mail icon. Finding past emails is seamless with the new custom search engine that filters emails via key-terms, recipients, and association. The filter can see through any spelling or typing errors. Emails will always be accessible to the user since they are saved to their account. 
+
 CLUB ANNOUNCEMENTS
 * If the user wishes to find out information about a club, team, or publication, they can navigate to the slack icon on the bottom of their screen, labeled clubs in case the user isn’t already familiar with the slack icon. From there they can quickly see the next meeting time for the extracurricular and can click on the title to enlarge the chat.
  
