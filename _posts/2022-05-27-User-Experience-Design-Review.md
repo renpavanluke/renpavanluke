@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Contextual Inquiry Review
-subtitle: assignment 3.4
+title: User Experience Design Review
+subtitle: assignment 6.4
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
