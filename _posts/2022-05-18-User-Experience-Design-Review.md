@@ -67,12 +67,16 @@ CLUB ANNOUNCEMENTS
 ### OUR CHANGES FROM PAPER → DIGITAL
 A NEW HELP PAGE 
 * A pop-out help menu is in the top right corner of all pages of Interconnections App. This page is interactive and consistent, with a clear search bar on the top. This page will help the user as they adjust to the new app, and popular searches will be saved and then used to lead future updates of the app.
+
 CUSTOMIZABLE HOME PAGE WIDGETS
 * The home page of our app is fully customizable to show easy previews/access to the users most needed apps. This helps to accommodate the wide range of HM users (ex. allowing a student to display their coursework/clubs whilst a staff member could devote space to their calendar/emails)
+
 SLACK “CLUBS” LABEL
 * We added clarity to the Slack page icon since many members of the community are not yet familiar with the slack logo.
+
 LOGIN BUTTON ADDED
 * To reduce user anxiety, we added a clear “Login” button to the login page, allowing the user to submit their username + password when ready.
+
 SAVE DRAFT BUTTON / EXIT BUTTONS
 * We made sure to provide multiple paths for exit, whether that be large, clickable “x”s on each individual task, allowing for users to click off to the side when in a pop up, and always making the classic bottom bar navigation accessible.
 
