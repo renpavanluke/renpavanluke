@@ -85,6 +85,18 @@ SAVE DRAFT BUTTON / EXIT BUTTONS
 * We made sure to provide multiple paths for exit, whether that be large, clickable “x”s on each individual task, allowing for users to click off to the side when in a pop up, and always making the classic bottom bar navigation accessible.
 
 
+### 10. Appendix
+
+1. [Team Contract](https://renpavanluke.github.io/2021-12-05-Team-Contract/)
+2. [Group Proposal and Contexual Inquiry Plan](https://renpavanluke.github.io/2021-12-06-Group-Proposal/)
+3. [Contextual Inquiry Check-In](https://renpavanluke.github.io/2021-12-10-Contextual-Inquiry-Check-in/)
+4. [Contextual Inquiry Review](https://renpavanluke.github.io/2022-01-11-Contextual-Inquiry-Review/)
+5. [Task Review](https://renpavanluke.github.io/2022-01-25-Task-Review/)
+6. [Design Check-In](https://renpavanluke.github.io/2022-02-10-Design-Check-In/)
+7. [Usability Testing Lab: Design Review](https://renpavanluke.github.io/2022-03-02-Design-Review/)
+8. [Usability Testing](https://renpavanluke.github.io/2022-04-07-Usability-Testing-Conclusion/)
+
+
 
 ### Notification
 
