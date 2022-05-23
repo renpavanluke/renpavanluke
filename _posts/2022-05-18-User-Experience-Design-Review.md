@@ -20,7 +20,7 @@ Presented By:
 The problem that our group identified was Horace Mann’s email system, FirstClass. FirstClass is used daily by students and teachers alike and from our personal experience and time with the community, there are obvious issues with the system. Such issues can and will cause communication errors between members of the community, and because the platform is used so often those problems should be fixed as soon as possible. Our solution was to make an entirely new app. It would be more user-friendly and easier to learn how to use, and in addition to fixing the main errors of FirstClass it would also integrate many new features. These features include a direct messaging function for easier communication, a Slack tab for managing after-school clubs, a Google Classroom tab for managing schoolwork and an announcements window for more important emails and messages.
 
 
-### Final Paper Prototype and Initial Digital Mockup
+### 7. Final Paper Prototype and Initial Digital Mockup
 
 IMAGE(S): PAPER PROTOTYPE 
 
@@ -36,7 +36,7 @@ Critical Aspects of Design:
 3. The flexibility and accessibility of information through widgets + notifications + pop ups + previews
 
 
-### Digital Mockup & Testing Results
+### 8. Digital Mockup & Testing Results
 
 EMBED: FIGMA DIGITAL PROTOTYPE 
  
@@ -68,7 +68,7 @@ CLUB ANNOUNCEMENTS
 * If the user wishes to find out information about a club, team, or publication, they can navigate to the slack icon on the bottom of their screen, labeled clubs in case the user isn’t already familiar with the slack icon. From there they can quickly see the next meeting time for the extracurricular and can click on the title to enlarge the chat.
  
 
-### OUR CHANGES FROM PAPER → DIGITAL
+#### OUR CHANGES FROM PAPER → DIGITAL
 A NEW HELP PAGE 
 * A pop-out help menu is in the top right corner of all pages of Interconnections App. This page is interactive and consistent, with a clear search bar on the top. This page will help the user as they adjust to the new app, and popular searches will be saved and then used to lead future updates of the app.
 
