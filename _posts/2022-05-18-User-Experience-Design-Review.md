@@ -23,6 +23,14 @@ The problem that our group identified was Horace Mann’s email system, FirstCla
 ## 7. Final Paper Prototype and Initial Digital Mockup
 
 IMAGE(S): PAPER PROTOTYPE 
+![crepe](/assets/img/IMG_3187.JPG)
+
+![crepe](/assets/img/IMG_3188.JPG)
+![crepe](/assets/img/IMG_3189.JPG)
+![crepe](/assets/img/IMG_3190.JPG)
+![crepe](/assets/img/IMG_3191.JPG)
+![crepe](/assets/img/IMG_3192.JPG)
+![crepe](/assets/img/IMG_3193.JPG)
 
 INITIAL MOCK UP: N/A
 
@@ -38,7 +46,7 @@ Critical Aspects of Design:
 
 ## 8. Digital Mockup & Testing Results
 
-EMBED: FIGMA DIGITAL PROTOTYPE 
+[EMBED: FIGMA DIGITAL PROTOTYPE](https://www.figma.com/proto/m4w59WibEZY5lsz1LsHi29/Mobile-Hi-Fi-Prototype?node-id=14%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A3) 
  
 2 Critical Tasks:
 #### 1. Improving Communication (sending emails, announcements)
