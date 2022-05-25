@@ -26,7 +26,6 @@ The problem that our group identified was Horace Mann’s email system, FirstCla
 
 ## 4. Contextual Inquiry Results & Key Tasks
 
-![crepe](/assets/img/section4.png)
 <img src="/assets/img/section4.png" alt="drawing" width="600"/>
 
 
@@ -50,6 +49,7 @@ IMAGE(S): PAPER PROTOTYPE
 ![crepe](/assets/img/IMG_3187.JPG)
 
 ![crepe](/assets/img/IMG_3188.JPG)
+<img src="/assets/img/IMG_3188.JPG" alt="drawing" width="200"/>
 ![crepe](/assets/img/IMG_3189.JPG)
 ![crepe](/assets/img/IMG_3190.JPG)
 ![crepe](/assets/img/IMG_3191.JPG)
