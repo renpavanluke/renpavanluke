@@ -10,9 +10,8 @@ comments: true
 
 # HM Interconnected 
 
-<img src="section3.jpg" alt="drawing" width="200"/>
 <img src="/assets/img/section3.jpg" alt="drawing" width="200"/>
-![crepe](/assets/img/IMG_3187.JPG)
+
 
 Presented By:
 * Ren - UI Designer
@@ -28,6 +27,8 @@ The problem that our group identified was Horace Mann’s email system, FirstCla
 ## 4. Contextual Inquiry Results & Key Tasks
 
 ![crepe](/assets/img/section4.png)
+<img src="/assets/img/section4.png" alt="drawing" width="200"/>
+
 
 For our contextual inquiries we sent out a school-wide survey for faculty, students, and teachers, and also interviewed a teacher and a student at Horace Mann. The process of interviewing didn’t change at all throughout the two tests, but we had many drafts for our survey before we finally sent it out. Deciding the central tasks to accomplish was simple as many of the participants in the survey and the two that we interviewed had similar problems with FirstClass.
 
