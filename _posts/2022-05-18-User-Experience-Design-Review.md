@@ -29,7 +29,15 @@ For our contextual inquiries we sent out a school-wide survey for faculty, stude
 
 ## 5. Initial Paper Prototype
 
+![crepe](/assets/img/IMG_3187.JPG)
+
+Our paper prototype, as given by the label, is a model of our application in paper format. Our application, as described before, focuses on making communication much easier between Horace Mann students. The tasks that we would pose to our testers was to send an email, and to check the upcoming meeting time for the Game Jam Club. On the main page of the paper prototype, there’s a google classroom widget to display upcoming assignments, a slack widget for club related things, and a small email/direct messaging widget to display unread emails to the user. On the bottom, there are icons for navigating the different functionalities of the application. The Slack functionality is primarily used for communication and information about club related things. Students can see upcoming club meeting dates and/or communicate with fellow club members on this functionality. The email functionality is primarily used for email between students and teachers, much like other email softwares. The google classroom functionality displays upcoming assignments, and allows students to turn in assignments etc. The settings page allows for the user to see their faculty/student profile and to get help with managing their preferences. 
+
+
 ## 6. Usability Testing Process & Results
+
+Our testing process consisted of getting our peers to utilize our paper prototype of our applications. In total, we asked 3 people to test our paper prototype. We asked one of our classmates, the teacher of our class, and someone from the robotics club. Getting perspectives from people who are really experienced with First Class and its flaws helped us see if our application really solved those flaws, and provided them with a better communication system. After each test with one of our testers, we learned about more specific questions or tasks that could be posed to testers. The more pointed the question, the better of an idea we got on how to augment our own applications with tweaks or fixes. We posed tasks to our testers with the rationale of giving them tasks that would be the most integral to any potential users of our application. Tasks such as sending an email or finding out the meeting date of an extracurricular club are tasks that would be performed most often with our application, and thus we posed those tasks to our testers, to see if those tasks were as easy/intuitive as possible.
+
 
 ## 7. Final Paper Prototype and Initial Digital Mockup
 
@@ -103,7 +111,16 @@ LOGIN BUTTON ADDED
 SAVE DRAFT BUTTON / EXIT BUTTONS
 * We made sure to provide multiple paths for exit, whether that be large, clickable “x”s on each individual task, allowing for users to click off to the side when in a pop up, and always making the classic bottom bar navigation accessible.
 
-## 9. 
+## 9. Discussion & Implementation Plan
+
+The final paper prototype showing was very limited and the feedback that we received wasn’t very helpful because we had planned to replace the paper prototype with a digital prototype. Unfortunately, this final showing was mostly pointless.
+
+We set up a repository, but stopped there due to a lack of experience with the application. Unfortunately we didn’t have enough time at the end of the school year to learn how to use Xcode in its entirety, but we were able to experiment with the beginner-friendly storyboard function to play around with how a real iOS app could be developed. 
+
+To finish our project, we would need to be sponsored by Dr. Kelly and given a larger and more experienced team to assist us. From there we would pool our new feedback from our mockup with our previous research to replicate our idea onto the program, and then would make it available to download on the App Store, and later Android devices using Android Studio.
+
+Having many different models over two platforms — one physical and one digital — was very beneficial to our design process because we didn’t stay too attached to our mistakes. We were able to approach and fix problems faster by using both Figma and paper for prototypes. I think the current amount of iterations we have is a solid amount - any more would be too much but any less would be too little. I think that if our group was more experienced with XCode we could have made the app functional and successfully released it for public use.
+
 
 ## 10. Appendix
 
