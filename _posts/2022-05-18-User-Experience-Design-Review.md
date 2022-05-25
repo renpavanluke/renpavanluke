@@ -10,7 +10,7 @@ comments: true
 
 # HM Interconnected 
 
-<img src="/assets/img/section3.jpg" alt="drawing" width="200"/>
+<img src="/assets/img/section3.jpg" alt="drawing" width="800"/>
 
 
 Presented By:
