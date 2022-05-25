@@ -70,6 +70,8 @@ Critical Aspects of Design:
 
 ## 8. Digital Mockup & Testing Results
 
+
+<img src="/assets/img/figmaSS.png" alt="drawing" width="600"/>
 [EMBED: FIGMA DIGITAL PROTOTYPE](https://www.figma.com/proto/m4w59WibEZY5lsz1LsHi29/Mobile-Hi-Fi-Prototype?node-id=14%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A3) 
  
 2 Critical Tasks:
