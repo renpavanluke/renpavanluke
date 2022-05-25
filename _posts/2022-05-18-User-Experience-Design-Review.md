@@ -48,13 +48,13 @@ Our testing process consisted of getting our peers to utilize our paper prototyp
 IMAGE(S): PAPER PROTOTYPE 
 ![crepe](/assets/img/IMG_3187.JPG)
 
-![crepe](/assets/img/IMG_3188.JPG)
-<img src="/assets/img/IMG_3188.JPG" alt="drawing" width="200"/>
-![crepe](/assets/img/IMG_3189.JPG)
-![crepe](/assets/img/IMG_3190.JPG)
-![crepe](/assets/img/IMG_3191.JPG)
-![crepe](/assets/img/IMG_3192.JPG)
-![crepe](/assets/img/IMG_3193.JPG)
+<img src="/assets/img/IMG_3188.JPG" alt="drawing" width="400"/>
+<img src="/assets/img/IMG_3189.JPG" alt="drawing" width="400"/>
+<img src="/assets/img/IMG_3190.JPG" alt="drawing" width="400"/>
+<img src="/assets/img/IMG_3191.JPG" alt="drawing" width="400"/>
+<img src="/assets/img/IMG_3192.JPG" alt="drawing" width="400"/>
+<img src="/assets/img/IMG_3193.JPG" alt="drawing" width="400"/>
+
 
 INITIAL MOCK UP: N/A
 
