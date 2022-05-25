@@ -17,13 +17,19 @@ Presented By:
 
 ## 3. Problem Definition and Proposed Solution Overview
 
+![crepe](/assets/img/section3.jpg)
+
 The problem that our group identified was Horace Mann’s email system, FirstClass. FirstClass is used daily by students and teachers alike and from our personal experience and time with the community, there are obvious issues with the system. Such issues can and will cause communication errors between members of the community, and because the platform is used so often those problems should be fixed as soon as possible. Our solution was to make an entirely new app. It would be more user-friendly and easier to learn how to use, and in addition to fixing the main errors of FirstClass it would also integrate many new features. These features include a direct messaging function for easier communication, a Slack tab for managing after-school clubs, a Google Classroom tab for managing schoolwork and an announcements window for more important emails and messages.
 
-## 4. 
+## 4. Contextual Inquiry Results & Key Tasks
 
-## 5. 
+![crepe](/assets/img/section4.png)
 
-## 6. 
+For our contextual inquiries we sent out a school-wide survey for faculty, students, and teachers, and also interviewed a teacher and a student at Horace Mann. The process of interviewing didn’t change at all throughout the two tests, but we had many drafts for our survey before we finally sent it out. Deciding the central tasks to accomplish was simple as many of the participants in the survey and the two that we interviewed had similar problems with FirstClass.
+
+## 5. Initial Paper Prototype
+
+## 6. Usability Testing Process & Results
 
 ## 7. Final Paper Prototype and Initial Digital Mockup
 
