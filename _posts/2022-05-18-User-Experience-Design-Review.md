@@ -15,10 +15,15 @@ Presented By:
 * Pavan - UI Designer
 * Luke - UI Designer
 
-## 1. Problem Definition and Proposed Solution Overview
+## 3. Problem Definition and Proposed Solution Overview
 
 The problem that our group identified was Horace Mann’s email system, FirstClass. FirstClass is used daily by students and teachers alike and from our personal experience and time with the community, there are obvious issues with the system. Such issues can and will cause communication errors between members of the community, and because the platform is used so often those problems should be fixed as soon as possible. Our solution was to make an entirely new app. It would be more user-friendly and easier to learn how to use, and in addition to fixing the main errors of FirstClass it would also integrate many new features. These features include a direct messaging function for easier communication, a Slack tab for managing after-school clubs, a Google Classroom tab for managing schoolwork and an announcements window for more important emails and messages.
 
+## 4. 
+
+## 5. 
+
+## 6. 
 
 ## 7. Final Paper Prototype and Initial Digital Mockup
 
@@ -92,8 +97,9 @@ LOGIN BUTTON ADDED
 SAVE DRAFT BUTTON / EXIT BUTTONS
 * We made sure to provide multiple paths for exit, whether that be large, clickable “x”s on each individual task, allowing for users to click off to the side when in a pop up, and always making the classic bottom bar navigation accessible.
 
+## 9. 
 
-### 10. Appendix
+## 10. Appendix
 
 1. [Team Contract](https://renpavanluke.github.io/2021-12-05-Team-Contract/)
 2. [Group Proposal and Contexual Inquiry Plan](https://renpavanluke.github.io/2021-12-06-Group-Proposal/)
