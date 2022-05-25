@@ -11,9 +11,8 @@ comments: true
 # HM Interconnected 
 
 <img src="section3.jpg" alt="drawing" width="200"/>
-
-![section3.jpg](//https://docplayer.es/docs-images/67/56793037/images/11-0.jpg =50x50)
-
+<img src="/assets/img/section3.jpg" alt="drawing" width="200"/>
+![crepe](/assets/img/IMG_3187.JPG)
 
 Presented By:
 * Ren - UI Designer
